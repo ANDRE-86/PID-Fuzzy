@@ -3,6 +3,8 @@ Este repositorio tem o objetivo de desenvolver um modelo de ajuste de sintonia d
 
 Todas as sujestões são bem vindas. Sou iniciante! Desde já eu agradeço. ok.
 
+1 - Coletar dados de um OPCua. 
+
 
 
 
