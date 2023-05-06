@@ -1,0 +1,8 @@
+Olá, Meu nome é Andre Campos. 
+Este repositorio tem o objetivo de desenvolver um modelo de ajuste de sintonia de uma malha de controle PID usando logica Fuzzy. 
+
+Todas as sujestões são bem vindas. Sou iniciante! Desde já eu agradeço. ok.
+
+
+
+
