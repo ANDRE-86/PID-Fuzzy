@@ -3,7 +3,13 @@ Este repositorio tem o objetivo de desenvolver um modelo de ajuste de sintonia d
 
 Todas as sujestões são bem vindas. Sou iniciante! Desde já eu agradeço. ok.
 
-1 - Coletar dados de um OPCua. 
+1 - Coloetar as variaveis de um PID via OPC de um controlador, sendo elas, PV, MV, SP, Kp, Tr, Td. 
+2 - Executar um modelo de lógica fuzzy em python, 
+3 - A logica Fuzzy deve ser ajustada para sujerir novos kp, tr, conforme o modelo se performace com o tempo. 
+
+4 - Quero criar um modelo ARX de cada malha de controle para poder simular previamente os ajustes de sintonia para identificar possiveis erros. 
+
+5 - Usar um ambiente gráfico que facilite a visualização de melhora na performance do controle.
 
 
 
